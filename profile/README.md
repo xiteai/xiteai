@@ -1,13 +1,11 @@
 <div align="center">
 
 <br />
-<img src="xiteai.png" alt="XiteAI" width="180" />
+<img src="xiteai.png" alt="XiteAI" width="140" />
 <br />
 <br />
 
-# XITEAI
-
-**The Architecture of Native Intelligence**
+**Native Intelligence Infrastructure**
 
 [xiteai.com](https://xiteai.com)
 
@@ -15,30 +13,32 @@
 
 </div>
 
-XiteAI designs foundational intelligence systems, ambient operating shells, and cognitive workspace infrastructure. We build hardware-level context engines and desktop environments that redefine how humanity interacts with compute.
+XiteAI builds desktop operating systems and high-throughput software environments engineered for context-aware automation, local execution, and real-time reasoning.
 
----
+<br />
 
-### Core Systems
+### Systems
 
-#### XOS1 — Ambient Desktop Operating System
-An autonomous desktop presence operating alongside human workflows. XOS1 maintains continuous awareness across active viewports, local file buffers, and system states to deliver zero-friction intelligence without explicit prompting.
+#### XOS1
+An ambient desktop operating system that integrates directly with system processes, viewports, and local file buffers to deliver contextual automation without interface friction.
 
-#### XiteAI Workspace — Cognitive Computing Environment
-A high-throughput multi-model environment engineered for deep analytical work, automated academic synthesis, and structured reasoning pipelines.
+#### XiteAI Workspace
+A multi-model analytical platform designed for rapid synthesis, mathematical typesetting, dynamic diagramming, and structured reasoning workflows.
 
----
+<br />
 
-### Engineering Principles
+### Infrastructure Standards
 
-* **Edge-Native Privacy:** Biometric verification and sensitive context streams are executed strictly on local hardware enclaves.
-* **Ambient Continuity:** Systems that anticipate, adapt, and maintain long-horizon temporal memory across execution states.
-* **Deterministic Precision:** Zero-compromise system automation, real-time substrate rendering, and verifiable execution pipelines.
+* **On-Device Enclaves** — Biometric verification and sensitive context streams are processed strictly on local hardware.
+* **Low-Latency Engine** — Sub-word audio synchronisation and direct OS handles built for high-throughput execution.
+* **Zero-Training Guarantee** — User context, local files, and system interactions remain entirely isolated and unmined.
+
+<br />
 
 ---
 
 <div align="center">
 
-<sub>XITEAI TECHNOLOGIES • ALL RIGHTS RESERVED</sub>
+<sub>© 2026 XiteAI Technologies Inc.</sub>
 
 </div>
