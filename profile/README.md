@@ -1,5 +1,10 @@
 <div align="center">
 
+<br />
+<img src="xiteai.png" alt="XiteAI" width="180" />
+<br />
+<br />
+
 # XITEAI
 
 **The Architecture of Native Intelligence**
